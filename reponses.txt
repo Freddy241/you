@@ -1,0 +1,8 @@
+a git pull permet de recuperer et d'ajouter les dernieres modification effectué sur un depot distant
+
+b avec la commande git checkout -- nom du fichier ou les modifs doivent etre  supprimer
+
+
+c git branch -d
+
+d git log 
